@@ -28,4 +28,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTE5MTgwMzY4NTM5OTk1NzU3NA.GDQKgW.3-IUKGWJD-W-Rx1ItOvRKzq5Z4RB2knFkLkgig")
+client.run("token girin")
